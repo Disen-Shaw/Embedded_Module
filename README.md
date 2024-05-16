@@ -3,7 +3,7 @@
 
 ## Intro
 
-This repository is used for storage some module driver I used.
+嵌入式开发过程中使用到的一些与平台无关的代码
 
 
 
