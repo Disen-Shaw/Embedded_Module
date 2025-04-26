@@ -3,7 +3,4 @@
 
 ## Intro
 
-嵌入式开发过程中使用到的一些与平台无关的代码
-
-
-
+some generic codes
